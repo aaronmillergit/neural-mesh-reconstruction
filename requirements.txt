@@ -3,3 +3,5 @@ open3d
 ipykernel
 conda-forge
 libstdcxx-ng
+scikit-image
+pyvista
