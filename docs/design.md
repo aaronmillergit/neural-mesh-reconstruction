@@ -32,8 +32,6 @@ Our network architecture is similar to Point2Surf's (fig 1.), with variations ex
 - number of connected components
 - genus of largest component
 - area fraction of largest component
-- genus of 2nd largest component
-- area fraction of second largest component.
 
 #### Per mesh test:
 - Symmetric L2-Squared Chamfer Distance (point-to-point, knn on 10k pts)
